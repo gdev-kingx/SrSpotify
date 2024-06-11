@@ -1,0 +1,62 @@
+{
+    "name": "SnSarvesh🔥 Favorites",
+    "albumCover": "/images/albumCovers/SpinTheGlobe.png",
+    "releaseYear": "2024",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Paaraa",
+            "path": "/songs/Paaraa.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Come Back Indian",
+            "path": "/songs/Come Back Indian.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Kadharalz",
+            "path": "/songs/Kadharalz.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Achacho",
+            "path": "/songs/Achacho.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Pushpa Pushpa",
+            "path": "/songs/Pushpa Pushpa.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Whistle Podu",
+            "path": "/songs/Whistle Podu.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Naina",
+            "path": "/songs/Naina.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Nee Chuttu Chuttu",
+            "path": "/songs/Nee Chuttu Chuttu.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Hawa Hawa",
+            "path": "/songs/Hawa Hawa.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Nakkal Pudichavan",
+            "path": "/songs/Nakkal Pudichavan.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Coolie Disco",
+            "path": "/songs/Coolie Disco.mp3"
+        }
+    ]
+}
